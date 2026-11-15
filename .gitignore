@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+logs/
+figures/
+# LaTeX build files
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.bbl
+report/*.bcf
+report/*.blg
+report/*.run.xml
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz
